@@ -11,7 +11,7 @@ repository               : "moelttan-ci/LJT-Homepage"
 # Site Author
 author:
   name             : "Junteng Liu"
-  avatar           : "profile.png"
+  avatar           :
   bio              : "First-year PhD candidate at HKUST NLP Group, advised by Prof. Junxian He. My research focuses on natural language processing and machine learning. My research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability."
   location         : "Hong Kong"
   employer         : "Hong Kong University of Science and Technology"
